@@ -1195,8 +1195,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 8100995664042481688, guid: 2e6e4af44cc434d4d902eec6f670fe3c, type: 3}
-  minTime: 0.8
-  maxTime: 2
+  minTime: 10
+  maxTime: 20
 --- !u!4 &1015759735
 Transform:
   m_ObjectHideFlags: 0

@@ -13,7 +13,7 @@ public class TokenScript : MonoBehaviour
     public int gemsToClaim;
     // [SerializeField] public TMPro.TextMeshProUGUI gemsEarnedText;
     [SerializeField] private TMPro.TextMeshProUGUI tokenBalanceText;
-    private const string DROP_ERC20_CONTRACT = "0xDA79B1048F39859AF8BA625AF50Fb7bc514d1511";
+    private const string DROP_ERC20_CONTRACT = "0x0C71eA1115746f3A41eEc52D2aE8B99f87ACE65c";
     private void Start()
     {
         HasNotClaimedState.SetActive(true);
